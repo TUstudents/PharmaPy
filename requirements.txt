@@ -2,7 +2,7 @@
 #ipykernel
 #nbsphinx
 #sphinxcontrib.bibtex
-numpy
+numpy>=1.18
 pyomo
 scipy
 pandas
