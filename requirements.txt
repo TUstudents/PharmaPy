@@ -1,12 +1,9 @@
-sphinx>=1.4
-ipykernel
-nbsphinx
-sphinxcontrib.bibtex
-json
-glob
+#sphinx>=1.4
+#ipykernel
+#nbsphinx
+#sphinxcontrib.bibtex
 numpy
 pyomo
-coverage
 scipy
 pandas
 assimulo
