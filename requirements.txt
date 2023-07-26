@@ -6,4 +6,4 @@
 pyomo
 scipy
 pandas
-assimulo
+#assimulo
