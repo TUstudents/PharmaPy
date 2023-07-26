@@ -2,3 +2,12 @@ sphinx>=1.4
 ipykernel
 nbsphinx
 sphinxcontrib.bibtex
+unittest
+json
+glob
+numpy
+pyomo
+coverage
+scipy
+pandas
+assimulo
